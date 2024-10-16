@@ -1,4 +1,4 @@
-# Project Title
+# 2D SFML Spritesheet Level Editor
 
 A 2D Level editor utilizing imGUI and SFML in c++
 
